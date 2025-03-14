@@ -21,13 +21,13 @@
 
 ## Requirements
 1. Node Version >= 18
-2. OpenAI API Key
+2. Gemini API Key
 
 ## Installation
 
 1. Clone the Repo
 
-2. rename the `env.template` to `.env.local` and OPENAI_API_KEY
+2. rename the `env.template` to `.env.local` and GEMINI_API_KEY
 
 2. `cd` into the folder
 ```sh
